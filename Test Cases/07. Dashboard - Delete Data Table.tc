@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07. Dashboard - Delete Data Table</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>539dee67-28d9-4153-b992-02159e43f83b</testCaseGuid>
+</TestCaseEntity>

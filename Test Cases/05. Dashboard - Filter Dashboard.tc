@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05. Dashboard - Filter Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ee569d4-a4da-468e-a1e8-6ec0f4f09ffd</testCaseGuid>
+</TestCaseEntity>

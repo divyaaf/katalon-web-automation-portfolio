@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12. UI Elements - Verify Modal Dialog Opens (Confirm)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b92be8f-3285-479a-b618-fb70870143ad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03. Dashboard - Search Dashboard (Data is Displayed)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7e2311a-d112-4864-952b-f397d96fcfc2</testCaseGuid>
+</TestCaseEntity>

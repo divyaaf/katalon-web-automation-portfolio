@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14. UI Elements - Verify Hover Tooltip</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>832358da-401c-4ab3-bd39-78dc4200489d</testCaseGuid>
+</TestCaseEntity>

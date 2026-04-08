@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04. Dashboard - Search Dashboard (No Data Shown)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cc88a0b-2eda-4daf-86ad-38f19485ea88</testCaseGuid>
+</TestCaseEntity>

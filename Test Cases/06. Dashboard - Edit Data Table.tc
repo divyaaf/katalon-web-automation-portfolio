@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06. Dashboard - Edit Data Table</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96408e6a-ab7a-421e-aec8-2f066d2c9f85</testCaseGuid>
+</TestCaseEntity>
