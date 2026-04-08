@@ -4,9 +4,9 @@ import com.kms.katalon.core.testobject.ConditionType
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-WebUI.openBrowser('http://localhost:5173/web-testing-playground/')
+WebUI.openBrowser('https://divyaaf.github.io/web-testing-playground')
 
-TestObject complexForms = new TestObject ('Compex Forms')
+TestObject complexForms = new TestObject ('Complex Forms')
 complexForms.addProperty('xpath', ConditionType.EQUALS, '//*[@id="root"]/div/aside/nav/a[6]')
 WebUI.click(complexForms)
 WebUI.delay(3)

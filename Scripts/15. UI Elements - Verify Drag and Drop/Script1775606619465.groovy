@@ -7,7 +7,7 @@ import org.openqa.selenium.interactions.Actions
 import com.kms.katalon.core.webui.driver.DriverFactory
 import com.kms.katalon.core.webui.common.WebUiCommonHelper
 
-WebUI.openBrowser('http://localhost:5173/')
+WebUI.openBrowser('https://divyaaf.github.io/web-testing-playground')
 
 TestObject uiElement = new TestObject('UI Element')
 uiElement.addProperty('xpath', ConditionType.EQUALS, '//*[@id="root"]/div/aside/nav/a[4]')
